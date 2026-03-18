@@ -261,8 +261,7 @@ npm run build          # Build with tsup
 npm run test           # Test SDK functions
 
 # Solver
-npm run start:bot-blue # Run blue bot
-npm run start:bot-red   # Run red bot
+npm run demo
 ```
 
 ### Smart Contract Development
