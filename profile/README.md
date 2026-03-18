@@ -23,8 +23,7 @@ hackathon/
 ├── docs/           # Detailed documentation
 ├── frontend/       # React web application
 ├── sdk/            # TypeScript SDK for integrations
-├── solver/         # Solver bot reference implementation
-└── test/           # Integration tests
+└── solver/         # Solver bot reference implementation
 ```
 
 ## Architecture
